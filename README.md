@@ -14,8 +14,11 @@ KaseiCoin
 Crowdsale
 ![A screenshot of the result.](Execution_Results/KaseiCoinCrowdsale_compiled.png)
 
+<br>
 
-In this video we will run the complied code for crowdsale and then buy KaseiCoin. Finally mint the coins.
+<b>Results for crowdsale</b>
+
+This video in the zip file shows how we run the complied code for crowdsale and then buy KaseiCoin. Finally mint the coins.
 
 
 
@@ -26,7 +29,7 @@ Enhanced version of the code has a timinig component to time the mentioned goal 
 
 <br>
 
-Results for Crowdsale in a timed way to reach the goal
+<b>Results for Crowdsale in a timed way to reach the goal</b>
 
 ![A screenshot of the result.](Execution_Results/Screenhot1.png)
 
